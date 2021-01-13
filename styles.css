@@ -1,0 +1,39 @@
+body {
+  background-color: gainsboro;
+  background-image: url("./resources/images/styles.jpeg");
+}
+h1 {
+  font-size: 70pt;
+
+}
+header {
+  text-align: center;
+  color: gainsboro;
+}
+
+main {
+  text-align: center;
+}
+
+table {
+  /* border-collapse: collapse; */
+  margin-left: auto;
+  margin-right: auto;
+  background-color: grey;
+}
+
+th {
+  background-color: gold;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12pt;
+  background-color: beige;
+}
